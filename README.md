@@ -1,7 +1,7 @@
 # hamster-kombat-clone
 Hamster Kombat Clone | Tapswap Clone | Telegram Mini App Game 
 
-![hameste clone](./hamster-kombat-clone.png)
+![hameste clone](./home.png)
 
 If you're considering launching a game bot on Telegram similar to Hamster and Natcoin or have your own unique idea, we have the best proposal for you.
 
